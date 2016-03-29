@@ -170,7 +170,7 @@ Full game rebalance, new features, chains of production, all waiting for you her
 
 
 
-## ModVarietyPack
+## [ModVarietyPack](https://ludeon.com/forums/index.php?topic=16735.0)
 
 https://github.com/simon-82/ModVarietyPack/blob/gh-pages/modlist/index.md
 
