@@ -66,6 +66,7 @@ Full game rebalance, new features, chains of production, all waiting for you her
 
 - [Community Core Library](https://ludeon.com/forums/index.php?topic=14172.0) (support core library) by 1000101
 - [Edb Mod Order](https://ludeon.com/forums/index.php?topic=7454.0) (GUI for mods.) by EdB
+  - fork: [RW_ModOrderWithVersioning](https://github.com/Karel-Kroeze/RW_ModOrderWithVersioning) - Adds version checking to EdB's mod order
 - [Edb Prepare Carefully](https://ludeon.com/forums/index.php?topic=6261.0) (Customize your RimWorld colonists.) by EdB
 - [Edb Interface](https://ludeon.com/forums/index.php?topic=5258.0) (Enhanced GUI.) by EdB
 - [EPOE](https://ludeon.com/forums/index.php?topic=10571.0) (Expanded Prosthetics and Organ Engineering gives you the ability to craft your own prostheses and artificial organs.) by Ykara
