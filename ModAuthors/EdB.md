@@ -11,9 +11,9 @@ GitHub: https://github.com/RimWorldMods/EdB-ModOrder
 ### [EdB Prepare Carefully](https://ludeon.com/forums/index.php?topic=6261.0)
 Customize your RimWorld colonists.
 
-GitHub: https://github.com/RimWorldMods/EdB-PrepareCarefully
+GitHub (C# source missing): https://github.com/RimWorldMods/EdB-PrepareCarefully
 
 ### [EdB Interface](https://ludeon.com/forums/index.php?topic=5258.0)
 Enhanced GUI.
 
-GitHub: https://github.com/andreif/EdB-Interface
+GitHub (C# source missing): https://github.com/andreif/EdB-Interface
