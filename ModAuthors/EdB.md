@@ -5,7 +5,7 @@ GUI for mods.
 
 GitHub: https://github.com/RimWorldMods/EdB-ModOrder
 
-##### Further modifications:
+##### Forks:
   - [RW_ModOrderWithVersioning](https://github.com/Karel-Kroeze/RW_ModOrderWithVersioning) - Adds version checking to EdB's mod order
 
 ### [EdB Prepare Carefully](https://ludeon.com/forums/index.php?topic=6261.0)
